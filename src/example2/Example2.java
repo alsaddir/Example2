@@ -18,7 +18,8 @@ public class Example2
          Random rnd = new Random()
             
      int random = rnd.nextInt(100);
-//         System.out.println(random);
+         
+     System.out.println(random);
 
          //  }
 
