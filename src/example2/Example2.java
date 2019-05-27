@@ -10,8 +10,8 @@ public class Example2
     */
    public static void main (String[] args)
    {
-//      Gender person = Gender.FEMEL;
-//      System.out.println(person);
+      Gender person = Gender.FEMEL;
+      System.out.println(person);
 //      Gender person2 = Gender.MELE;
 //      System.out.println(person == person2);
 //      for (int i = 0; i < 400; i++) {
